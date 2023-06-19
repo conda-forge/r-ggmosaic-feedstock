@@ -1,11 +1,11 @@
-About r-ggmosaic
-================
+About r-ggmosaic-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggmosaic-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/haleyjeppson/ggmosaic
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggmosaic-feedstock/blob/main/LICENSE.txt)
 
 Summary: Mosaic plots in the 'ggplot2' framework. Mosaic plot functionality is provided in a single 'ggplot2' layer by calling the geom 'mosaic'.
 
