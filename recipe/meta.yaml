@@ -12,7 +12,7 @@ source:
   sha256: fe2e8ba03c5e96be5ba4110fbca2184662ff60f830d562388b6662d096fba1fe
 
 build:
-  number: 3
+  number: 4
   noarch: generic
   rpaths:
     - lib/R/lib/
@@ -25,7 +25,7 @@ requirements:
   host:
     - r-base
     - r-dplyr
-    - r-ggplot2 >=3.3.0
+    - r-ggplot2 >=3.3.0,<4
     - r-ggrepel
     - r-plotly >=4.5.5
     - r-productplots
@@ -36,7 +36,7 @@ requirements:
   run:
     - r-base
     - r-dplyr
-    - r-ggplot2 >=3.3.0
+    - r-ggplot2 >=3.3.0,<4
     - r-ggrepel
     - r-plotly >=4.5.5
     - r-productplots
