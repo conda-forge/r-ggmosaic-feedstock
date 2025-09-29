@@ -25,7 +25,7 @@ requirements:
   host:
     - r-base
     - r-dplyr
-    - r-ggplot2 >=3.3.0
+    - r-ggplot2 >=3.3.0,<4
     - r-ggrepel
     - r-plotly >=4.5.5
     - r-productplots
@@ -36,7 +36,7 @@ requirements:
   run:
     - r-base
     - r-dplyr
-    - r-ggplot2 >=3.3.0
+    - r-ggplot2 >=3.3.0,<4
     - r-ggrepel
     - r-plotly >=4.5.5
     - r-productplots
